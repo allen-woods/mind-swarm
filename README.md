@@ -55,11 +55,12 @@ Otherwise, people could sabotage the outcome of Polls and skew their intellect r
 - MongoDB + Mongoose ORM
 - Apollo Server v2
 - WebSockets
-- OpenID Connect (Google OAuth2)
+- OpenID Connect (oidc-provider)
 
 ### Front-End
 - React 16+
 - Apollo Client v2
 - Styled Components
+- OpenID Connect (oidc-client)
 
 Heavily inspired by the work of @alex996 at Code Realm and @reedbarger on Udemy.

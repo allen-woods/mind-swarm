@@ -1,0 +1,28 @@
+{
+  "name": "mind-swarm",
+  "version": "1.0.0",
+  "description": "Social app for crowdsourced expert advice and knowledge-based networking.",
+  "main": "server.js",
+  "repository": "git@github.com:allen-woods/mind-swarm.git",
+  "author": "allen-woods <allen.woods@flatironschool.com>",
+  "license": "ISC",
+  "private": false,
+  "dependencies": {
+    "@hapi/joi": "^15.0.3",
+    "apollo-server-express": "^2.6.3",
+    "bcryptjs": "^2.4.3",
+    "connect-redis": "^3.4.1",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "graphql": "^14.3.1",
+    "graphql-fields": "^2.0.3",
+    "ioredis": "^4.10.0",
+    "joi-objectid": "^2.0.0",
+    "mongoose": "^5.6.0",
+    "oidc-provider": "^5.5.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1",
+    "standard": "^12.0.1"
+  }
+}
